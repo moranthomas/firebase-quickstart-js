@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "firebase-quick": "fir-database-quickstart-100fb",
+    "firebase-auth": "fir-auth-quickstart-b9357"
+  }
+}
